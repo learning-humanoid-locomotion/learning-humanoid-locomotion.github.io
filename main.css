@@ -15,7 +15,6 @@ body {
 #video_grid {
     display: flex;
     flex-wrap: wrap;
-    background: rgba(169, 169, 169);
 }
 
 #video_grid > .video_wrapper {
